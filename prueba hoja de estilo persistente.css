@@ -1,0 +1,38 @@
+
+        h1{
+            color: purple;
+        }
+        h1{
+        background-color: lightseagreen
+    }       
+       h1 {
+        font-size: xx-large   
+    }
+  h2{
+      background-clip: border-box
+  }
+  h2{
+       background-color :lightskyblue
+}
+
+p {
+        background-color: lightgreen;
+    }
+P {      
+    color: black;
+    }
+p {    
+        background-color: lightgreen;
+    }
+p {
+            color: black;
+    }
+
+
+ .exampleone {
+    background-color: teal;
+    color: yellow;
+  }
+thead { background-color: aqua
+}
+col { background-color: aquamarine}
