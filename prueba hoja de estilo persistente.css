@@ -1,38 +1,44 @@
 
         h1{
-            color: purple;
+            color: rgb(17, 1, 17);
         }
         h1{
-        background-color: lightseagreen
+        background-color: rgb(178, 32, 178)
     }       
        h1 {
         font-size: xx-large   
     }
   h2{
-      background-clip: border-box
+      background-clip: all
   }
   h2{
-       background-color :lightskyblue
+       background-color :rgb(250, 135, 250)
 }
 
 p {
-        background-color: lightgreen;
+        background-color: rosybrown;
     }
 P {      
     color: black;
     }
 p {    
-        background-color: lightgreen;
+        background-color: palevioletred;
     }
 p {
             color: black;
     }
-
+body{
+    background-color: pink
+}
 
  .exampleone {
-    background-color: teal;
-    color: yellow;
+    background-color: rgb(128, 0, 117);
+    color: rgb(31, 8, 8);
   }
-thead { background-color: aqua
+thead { background-color: rgb(255, 0, 234)
 }
-col { background-color: aquamarine}
+col { background-color: rgb(255, 127, 238)}
+button
+{
+    shape-rendering: geometricPrecision
+}
